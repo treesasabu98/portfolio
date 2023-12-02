@@ -2,28 +2,11 @@ title: Treesa Sabu
 email: treesasabukappamavunkal@gmail.com
 author: Treesa Sabu
 
-description: >- # this means ignore newlines
+description: >- 
   Portfolio page of Treesa Sabu. 
   Explore the profile and works done by me. 
   Have a happy journey. :)
 
-include:
-  - pages
-
-lsi: false
-safe: true
-highlighter: rouge
-
 logo: /assets/img/Treesa new.jpg
 
-linkedin_username: treesa-sabu-66a029128
-twitter_username: treesa_sabu
-github_username:  treesasabu98
-
 theme: jekyll-theme-minimal
-
-# Nav
-navigation:
-  - item: "Blog"
-    link: "/blog/"
-
