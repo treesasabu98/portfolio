@@ -1,66 +1,11 @@
 title: Treesa Sabu
+email: treesasabukappamavunkal@gmail.com
 author: Treesa Sabu
-
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Home: "https://treesasabu98.github.io/portfolio/"
 
 description: >- 
   Portfolio page of Treesa Sabu. 
   Explore the profile and works done by me. 
   Have a happy journey. :)
 
-avatar: /assets/img/Treesa new.jpg
-round-avatar: true
-
-social-network-links:
-  email: treesasabukappamavunkal@gmail.com
-  github: treesasabu98
-  
-post_search: true
-
-navbar-var-length: false
-
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
-
-date_format: "%B %-d, %Y"
-
-timezone: "Asia/Kolkata"
-markdown: kramdown
-highlighter: rouge
-permalink: /:year-:month-:day-:title/
-paginate: 5
-
-kramdown:
-  input: GFM
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
-  -
-    scope:
-      path: "" # any file that's not a post will be a "page" layout by default
-    values:
-      layout: "page"
-
- plugins:
-  - jekyll-paginate
-  - jekyll-sitemap 
-# theme: jekyll-theme-minimal
+logo: /assets/img/Treesa new.jpg
+theme: jekyll-theme-minimal
