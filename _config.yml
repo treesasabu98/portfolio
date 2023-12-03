@@ -2,10 +2,15 @@ title: Treesa Sabu
 email: treesasabukappamavunkal@gmail.com
 author: Treesa Sabu
 
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+
 description: >- 
   Portfolio page of Treesa Sabu. 
   Explore the profile and works done by me. 
   Have a happy journey. :)
 
-logo: /assets/img/Treesa new.jpg
-theme: jekyll-theme-minimal
+avatar: /assets/img/Treesa new.jpg
+# theme: jekyll-theme-minimal
